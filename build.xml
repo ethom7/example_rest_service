@@ -87,7 +87,7 @@
 <project name="TomcatProject" basedir="." default="usage">
 
   <!-- #### Change for your system. #### -->
-  <property name="tomcat.home" value="/home/silver/tomcat9"/>
+  <property name="tomcat.home" value="C:\Tomcat 9.0"/>
 
   <!-- Leave the rest as they are. -->
   <property name="tomcat.lib"  value="${tomcat.home}/lib"/>
