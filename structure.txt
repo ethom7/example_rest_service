@@ -1,0 +1,16 @@
+The stucture of the program is as shown below.
+
+example_service
+├── build.xml
+├── README
+├── src
+│   ├── employees
+│   │   ├── Employee.java
+│   │   ├── EmployeesList.java
+│   │   ├── EmployeesRS.java
+│   │   └── RestfulEmployee.java
+│   ├── employees.db
+│   └── web.xml
+└── structure.txt
+
+2 directories, 9 files

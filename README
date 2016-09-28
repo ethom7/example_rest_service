@@ -1,0 +1,6 @@
+This program is adapted from source code from Java Web Services: Up and Running 2nd Edition by Martin Kalin.
+
+
+1. Compile/deploy in the usual way with the Ant script: ant -Dwar.name=employees deploy
+2. The base URL is: http://localhost:8080/employees/resourcesEmployee/.
+3. Various curl scripts or the equivalent can be used to confirm that the CRUD operations are supported.
