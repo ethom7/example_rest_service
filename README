@@ -1,5 +1,9 @@
 This program is adapted from source code from Java Web Services: Up and Running 2nd Edition by Martin Kalin.
 
+Chapter 2: RESTful Web Services: The Service Side
+Porting the Predictions Web Service to JAX-RS [pg. 65-75]
+employees service adapts predictions3
+
 
 1. Compile/deploy in the usual way with the Ant script: ant -Dwar.name=employees deploy
 2. The base URL is: http://localhost:8080/employees/resourcesEmployee/.
